@@ -23,3 +23,6 @@
 - [Front-End Performance Checklist 2019 ](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/) – An annual front-end performance checklist
 - [Frontend Raccoon](https://github.com/rtivital/jsraccoon) – Поради по верстці і написанню JavaScript коду
 - [React Things](https://github.com/rtivital/react-things) – Колекція матеріалів для вивчення ES2015, React, Redux, Webpack, Babel
+
+### QA
+- [ISTQB](https://www.istqb.org/downloads.html) - International Software Testing Qualifications Board has created the world's most successful scheme for certifying software testers.
