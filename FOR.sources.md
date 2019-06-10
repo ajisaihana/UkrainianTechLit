@@ -32,3 +32,6 @@
 - [Stratechery](https://stratechery.com) - Блог Бена томпсона про інновації та тренди
 - [First Round Review](https://firstround.com/review/) - ресурс про тех компанії та стартапи
 - [Mind the Product](https://www.mindtheproduct.com/) - блог для продакт менеджерів
+
+### QA 
+- [ISTQB](https://www.istqb.org/downloads/syllabi/foundation-level-syllabus.html) - The International Software Testing Qualifications Board is a software testing qualification certification organisation that operates internationally. 
